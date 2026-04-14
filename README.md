@@ -2,7 +2,7 @@ Golap Saroar Portfolio
 This repository contains the source code for the personal portfolio of Golap Saroar, a Computer Science & Engineering undergraduate at RUET. The site is designed with a "Problem-First" engineering philosophy, emphasizing logic and clean architecture over flashy bloat.
 
 🚀 Live Demo
-View Portfolio Live
+View Portfolio Live:https://golapsaroar.github.io/my-portfolio/
 
 🛠️ Tech Stack & Philosophy
 This portfolio is a testament to "New-Age Engineering"—leveraging modern browser APIs and clean code to create a premium user experience without heavy frameworks.
